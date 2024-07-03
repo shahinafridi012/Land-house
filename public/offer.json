@@ -1,0 +1,35 @@
+[
+    {
+        "id": 1,
+        "propertyType": "2-Bedroom Apartment",
+        "originalPrice": "250,000 AED",
+        "discountedPrice": "225,000 AED",
+        "discount": "10% off",
+        "imageURL": "https://i.ibb.co/bXThPgS/frames-for-your-heart-2d4l-AQAlb-DA-unsplash.jpg"
+    },
+    {
+        "id": 2,
+        "propertyType": "3-Bedroom House",
+        "originalPrice": "400,000 AED",
+        "discountedPrice": "360,000 AED",
+        "discount": "10% off",
+        "imageURL": "https://i.ibb.co/98HhjmP/digital-marketing-agency-ntwrk-g39p1k-Djv-SY-unsplash.jpg"
+    },
+    {
+        "id": 3,
+        "propertyType": "Luxury Penthouse",
+        "originalPrice": "750,000 AED",
+        "discountedPrice": "675,000 AED",
+        "discount": "10% off",
+        "imageURL": "https://i.ibb.co/HCg0c7w/jacques-bopp-Hh18-POSx5qk-unsplash.jpg"
+    },
+    {
+        "id": 4,
+        "propertyType": "Studio Apartment",
+        "originalPrice": "150,000 AED",
+        "discountedPrice": "135,000 AED",
+        "discount": "10% off",
+        "imageURL": "https://i.ibb.co/sWVJ7VH/sieuwert-otterloo-aren8nutd1-Q-unsplash.jpg"
+    }
+  
+]
